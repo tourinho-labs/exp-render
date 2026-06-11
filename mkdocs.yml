@@ -1,0 +1,6 @@
+site_name: exp-render
+site_description: Workload experiment - Caminho A (renderer/kustomize)
+nav:
+  - Home: index.md
+plugins:
+  - techdocs-core
